@@ -1,0 +1,3 @@
+$4300c868-218c-4b90-8c2b-1fa1296a9340²Ü"id ÿÿÿÿÿÿÿÿÿ*string8Zdefault.text ÿÿÿÿÿÿÿÿÿ*large_string08Zdefault?	embedding ÿÿÿÿÿÿÿÿÿ*fixed_size_list:float:15368Zdefault*metadata ÿÿÿÿÿÿÿÿÿ*struct0Zdefault"company *string08Zdefault!ticker *string08Zdefault!sector *string08Zdefaulttype *string08Zdefault index *string08Zdefault topic	 *string08Zdefault"!
+lance.auto_cleanup.interval20"'
+lance.auto_cleanup.older_than14days

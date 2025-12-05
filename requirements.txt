@@ -1,4 +1,4 @@
-streamlit==1.32.0
+streamlit==1.37.0
 openai==1.99.1
 galileo[all]==1.15.0
 langchain-openai==0.3.28
